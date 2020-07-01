@@ -2,7 +2,7 @@
  Simple and moderm landpage, with a sidebar menu, and with transitions to sign up form. 
 
 
-Tecnologies used:
+technologies used:
 
 - HTML/CSS/JS (most CSS with transforms and keyframe)
 - API [Randomuser.me](https://randomuser.me/) to user image
